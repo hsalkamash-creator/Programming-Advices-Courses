@@ -1,4 +1,4 @@
-🧐 Activity
+🧐 Activity numper1 
 📋 Instructions:
 
 1️⃣ Identify one example of data from your daily life.
@@ -10,3 +10,28 @@ Data: 4,000 solar cells are manufactured and installed monthly.
 Information: This amounts to 48,000 cells installed annually worldwide, with 5,000 of them installed in my country.
 Knowledge: Solar cells are being manufactured and installed every year.
 Wisdom: We must encourage this trend and boost its adoption—positioning it as an alternative to the fossil fuels that pollute the planet—by promoting the installation of these cells in homes and government institutions.
+
+
+🧐 Activity numper2
+📋 Instructions:
+
+1️⃣ Convert the following decimal numbers into binary:
+
+44
+129
+512
+717
+999
+2️⃣ Write your first name in binary using ASCII encoding.
+
+
+ANS:
+1-
+44=00101100
+129=10000001
+512=1000000000
+717=1011001101
+999=1111100111
+
+2-
+01001000 01100001 01110011 01110011 01100001 01101110
