@@ -220,3 +220,49 @@ a)0001001010100100                                  12A4
 b)0001110000110101                                  1C35
 c)000100000000                                      100
 d)0001000101011100                                  115C
+
+
+
+🧐 Activity numper7
+📋 Instructions: Answer the following questions based on what you learned about computer networks.
+
+1️⃣ What is a Network?
+2️⃣ Why do we need a Network?
+3️⃣ What is the difference between LAN and WAN?
+4️⃣ How do computers communicate together on a network?
+5️⃣ What is Ethernet?
+6️⃣ What is Wireless?
+7️⃣ What is a Protocol?
+8️⃣ What is Wi-Fi?
+9️⃣ Wi-Fi stands for what?
+
+ANS:
+
+1-
+A network consists of multiple interconnections and communication links between devices such as phones, computers, and printers; it falls into one of two categories: a wide area network (WAN) or a local area network (LAN).
+
+2-
+We need networks to control everything from a single device; for example, I can control my mobile phone and TV screen using my laptop—all through the network.
+
+3-
+The difference between a Wide Area Network (WAN) and a Local Area Network (LAN) is that a WAN consists of more than one LAN.This can span a single country or the entire globe. For instance, suppose I have three company computers in Iraq—belonging to a freight transport firm—along with branches in Germany and China. As the administrator or technician, I have the ability to access these networks.I can control it—and all the other devices—using my device, even while I am in Iraq.
+
+4-
+Computers can connect to one another via networks using two methods.Either through cables and wires, which is called Ethernet orOr it can connect wirelessly via Wi-Fi.
+
+5-
+Ethernet is one of the methods by which computers can connect to each other using wires or cables.
+
+6-
+Wireless technology is one of the methods computers use to connect with each other via Wi-Fi and radio waves, without the need for cables.
+
+7-
+A protocol consists of the standard rules that enable computers......with each other, either via wireless or Ethernet.
+
+8-
+It is Wireless fidelity
+
+9-
+is a popular way
+to connect wirelessly
+to a network
