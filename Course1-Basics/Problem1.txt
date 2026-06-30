@@ -62,6 +62,6 @@ I have arranged them according to their proximity to the CPU and the required da
 This is because a 32-bit system can utilize a maximum of only 4 GB of RAM; consequently, you will notice the device running more slowly and being less responsive, with very sluggish processing. Furthermore, since this is an older and less secure system, you will not benefit from the full performance capabilities of your hardware—which is designed for 64-bit—but rather receive significantly lower performance.
 
 4-
-3.2 billion cycles per second.During each cycle, billions 
+3.6 billion cycles per second.During each cycle, billions 
 of transistors within the 
 processor open and close.
