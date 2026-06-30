@@ -35,3 +35,33 @@ ANS:
 
 2-
 01001000 01100001 01110011 01110011 01100001 01101110
+
+
+
+
+🧐 Activity numper3
+📋 Instructions:
+
+1️⃣ Convert each: 8 KB, 2 MB, 3 GB into bytes (use 1 KB = 1,024 bytes).
+2️⃣ Order these by fastest access: RAM, Registers, SSD, L1 Cache. Explain why.
+3️⃣ Your laptop has 8 GB RAM and a 64-bit CPU, but a 32-bit OS is installed. List two limitations you’ll face.
+4️⃣ A CPU runs at 3.6 GHz. How many cycles per second is that? What happens during each cycle (at a high level)?
+
+
+ANS:
+1-
+8 KB0=8,192Bytes
+2 MB=2,097,152Bytes
+3 GB=3,221,225,472Bytes
+
+2-
+SSD > RAM > Cache L1 > Registers
+I have arranged them according to their proximity to the CPU and the required data transfer speed. The SSD serves as permanent secondary storage, while the others are temporary storage units, each faster than the last. Similarly, the CPU stores information based on priority—ranking items from most important Registers to least important Cache L1, and so on.
+
+3-
+This is because a 32-bit system can utilize a maximum of only 4 GB of RAM; consequently, you will notice the device running more slowly and being less responsive, with very sluggish processing. Furthermore, since this is an older and less secure system, you will not benefit from the full performance capabilities of your hardware—which is designed for 64-bit—but rather receive significantly lower performance.
+
+4-
+3.2 billion cycles per second.During each cycle, billions 
+of transistors within the 
+processor open and close.
