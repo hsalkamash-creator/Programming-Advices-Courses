@@ -65,3 +65,62 @@ This is because a 32-bit system can utilize a maximum of only 4 GB of RAM; conse
 3.6 billion cycles per second.During each cycle, billions 
 of transistors within the 
 processor open and close.
+
+
+🧐 Activity numper4
+📋 Instructions:
+
+1️⃣ Convert 469, 1513, 479 to hex (show steps).
+2️⃣ Convert 1D5, 5E9, 1DF to decimal (expand by 16n16^n16n).
+3️⃣ Convert 13B4 and A5 to binary using nibble mapping.
+
+
+ANS:
+1-
+NUMPER/16         RESULT       INTEGER      FRACTION        REMAINDER             HEX              FINALLY RESULT
+469/16            29.3125        29         0.3125        0.3125X16=5              5
+29/16              1.8125         1         0.8125        0.8125X16=13             D                   (1D5)
+1/16                 --          --           --              --                   1
+
+NUMPER/16         RESULT       INTEGER      FRACTION        REMAINDER             HEX              FINALLY RESULT
+1513/16           94.5625        94         0.5625         0.5625X16=9             9
+94/16             5.875          5          0.875          0.875X16=14             E                   (5E9)
+5/16                --           --         --                 --                  5
+
+NUMPER/16         RESULT       INTEGER      FRACTION        REMAINDER             HEX              FINALLY RESULT
+479/16            29.9375        29         0.9375         0.9375X16=15            F
+29/16             1.8125         1          0.8125         0.8125X16=13            D                   (1DF)
+1                   --           --          --               --                   1
+
+
+2-
+     HEX                          Decimal
+1D5                              
+5X16^0 => 5X1=5
+Dx16^1 => 13X16=208            (5+208+1=214)
+1X16^2 => 1X256=1
+
+     HEX                          Decimal
+5E9
+9X16^0 => 9X1=9
+Ex16^1 => 14X16=224            (9+224+1280=1513)
+5X16^2 => 5X256=1280
+
+     HEX                          Decimal
+1DF
+Fx16^0 => 15X1=15
+Dx16^1 => 13X16=208            (15+208+256=479)
+1X16^2 => 1X256=256
+
+3-
+   HEX                          Decimal                                              Binary
+13B4
+4X16^0 => 4X1=4                                                  
+Bx16^1 => 11X16=176
+3X16^2 => 3X256=768         (4+176+768+4096=5044)                                 1001110110100
+1X16^3 => 1X4096=4096
+
+HEX                          Decimal                                              Binary
+A5
+5X16^0 => 5X1=5
+Ax16^1 => 10X16=160         (5+160=165)                                           10100101
