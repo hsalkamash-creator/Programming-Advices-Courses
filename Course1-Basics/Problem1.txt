@@ -97,8 +97,8 @@ NUMPER/16         RESULT       INTEGER      FRACTION        REMAINDER           
      HEX                          Decimal
 1D5                              
 5X16^0 => 5X1=5
-Dx16^1 => 13X16=208            (5+208+1=214)
-1X16^2 => 1X256=1
+Dx16^1 => 13X16=208            (5+208+256=469)
+1X16^2 => 1X256=256
 
      HEX                          Decimal
 5E9
