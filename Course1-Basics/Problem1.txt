@@ -181,3 +181,42 @@ The first bit position is known as the least significant bit (LSB) of the byte, 
 
 12-
 It is the last bit in the byte and holds the highest value within the byte; its value is 2 to the power of 7.
+
+
+
+🧐 Activity numper 6
+📋 Instructions:
+
+Convert directly (use nibble mapping / 4-bit grouping only).
+
+1️⃣ Hex → Binary
+
+a) 12A4
+b) 1C35
+c) 100
+d) 115C
+2️⃣ Binary → Hex
+
+a) 0001 0010 1010 0100
+b) 0001 1100 0011 0101
+c) 0001 0000 0000
+d) 0001 0001 0101 1100 
+
+
+ANS:
+
+1-
+     HEX                                           BINARY
+a)12A4                                           000100101010
+b)1C35                                           0001110000110101
+c)100                                            000100000000
+d)115C                                           0001000101011100
+
+
+
+2-
+   BINARY                                            HEX
+a)0001001010100100                                  12A4
+b)0001110000110101                                  1C35
+c)000100000000                                      100
+d)0001000101011100                                  115C
