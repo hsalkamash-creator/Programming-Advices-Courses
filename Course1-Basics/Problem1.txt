@@ -124,3 +124,60 @@ HEX                          Decimal                                            
 A5
 5X16^0 => 5X1=5
 Ax16^1 => 10X16=160         (5+160=165)                                           10100101
+
+
+
+🧐 Activity numper5
+📋 Instructions:
+
+Answer the following questions based on what you learned about bits, crumbs, nibbles, bytes, and their parts (LSB/MSB):
+
+1️⃣ What is a bit?
+2️⃣ What is a crumb?
+3️⃣ What is a nibble?
+4️⃣ What is a byte?
+5️⃣ How many bits are in a byte?
+6️⃣ How many crumbs are in a byte?
+7️⃣ How many nibbles are in a byte?
+8️⃣ How many crumbs are in a nibble?
+9️⃣ What is the lower nibble?
+🔟 What is the upper nibble?
+1️⃣1️⃣ What is LSB, why do we call it LSB, and what is its value?
+1️⃣2️⃣ What is MSB, why do we call it MSB, and what is its value?
+
+ANS:
+1-
+The bit is the smallest unit of measurement in the binary system.
+
+2-
+The crumb It consists of two bits
+
+3-
+the nibble It consists of four bits
+
+4-
+A byte is eight bits in the binary system and consists of two nibble
+
+5-
+There are eight bits in a single byte.
+
+6-
+There are four crumbs in single byte
+
+7-
+There are two nibbles in a single byte.
+
+8-
+There are two of crumbs them in a single nibble
+
+9-
+They are the first four positions in the bit sequence and represent the least significant values ​​in the binary system.
+
+10-
+It represents the last four bits and constitutes the higher-order value of the byte.
+
+11-
+The first bit position is known as the least significant bit (LSB) of the byte, and its value is 2 to the power of 0.
+
+12-
+It is the last bit in the byte and holds the highest value within the byte; its value is 2 to the power of 7.
